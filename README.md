@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0046-permutations) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0037-sudoku-solver) |
 | [0229-majority-element-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0229-majority-element-ii) |
