@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -84,4 +86,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0242-valid-anagram) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
