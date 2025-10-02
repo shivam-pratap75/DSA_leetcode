@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0048-rotate-image) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3336-water-bottles-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3336-water-bottles-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3336-water-bottles-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3336-water-bottles-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
