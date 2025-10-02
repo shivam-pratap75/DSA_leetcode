@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0229-majority-element-ii) |
+| [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
 | [0733-flood-fill](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0733-flood-fill) |
 | [1034-subarrays-with-k-different-integers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1106-escape-a-large-maze](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1106-escape-a-large-maze) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0242-valid-anagram) |
+| [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Counting
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -159,8 +162,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
 ## Combinatorics
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
