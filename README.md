@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
 | [0733-flood-fill](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0733-flood-fill) |
 | [1034-subarrays-with-k-different-integers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1046-max-consecutive-ones-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1106-escape-a-large-maze](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1106-escape-a-large-maze) |
 | [1319-unique-number-of-occurrences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -148,12 +149,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1034-subarrays-with-k-different-integers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1046-max-consecutive-ones-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
