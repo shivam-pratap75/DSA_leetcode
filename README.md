@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0050-powx-n) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2050-count-good-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2050-count-good-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3336-water-bottles-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3336-water-bottles-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
