@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0200-number-of-islands) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
