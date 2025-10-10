@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -210,4 +211,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
