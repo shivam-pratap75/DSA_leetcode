@@ -2,34 +2,40 @@ class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
         if (s1.size() > s2.size()) return false;
-        
+
         unordered_map<char, int> values;
         for (char c : s1) values[c]++;
-       
-      
-        for (int i = 0; i <= s2.size() - s1.size(); i++) {
-            if (values.count(s2[i])) {
-                unordered_map<char, int> temp = values;
-                int usedChars = 0;
-                
-                for (int j = i; j < s2.size() && usedChars < s1.size(); j++) {
-                    char c = s2[j];
-                    if (!temp.count(c) || temp[c] == 0) break;
-                    
-                    temp[c]--;
-                    usedChars++;
-                    
-                    if (usedChars == s1.size()) {
-                        bool allUsed = true;
-                        for (auto& [ch, cnt] : temp) {
-                            if (cnt != 0) {
-                                allUsed = false;
-                                break;
-                            }
-                        }
-                        if (allUsed) return true;
-                    }
+
+        int left = 0;
+        unordered_map<char, int> window_values;
+        int matched_chars = 0; 
+
+        for(int right = 0; right < s2.size(); right++) {
+            char right_char = s2[right];
+            
+            
+            if(values.find(right_char) != values.end()) {
+                window_values[right_char]++;
+                if(window_values[right_char] == values[right_char]) {
+                    matched_chars++;
                 }
+            }
+
+            
+            if(right - left + 1 > s1.size()) {
+                char left_char = s2[left];
+                if(values.find(left_char) != values.end()) {
+                    if(window_values[left_char] == values[left_char]) {
+                        matched_chars--;
+                    }
+                    window_values[left_char]--;
+                }
+                left++;
+            }
+
+            
+            if(matched_chars == values.size()) {
+                return true;
             }
         }
         return false;
