@@ -11,13 +11,10 @@ public:
                     count_curr++;
                 }
 
-                if(bank[i][j]=='1'){
-                    result+=count_prev;
-                }
-
             }
           
             if(count_curr!=0){
+                result+=count_curr*count_prev;
                   count_prev=count_curr;
 
             }
