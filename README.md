@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Depth-First Search
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Backtracking
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
