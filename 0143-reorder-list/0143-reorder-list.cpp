@@ -9,24 +9,23 @@ public:
             slow = slow->next;
         }
 
-        ListNode* temp = head;
-
-        while(temp != NULL && temp->next != NULL && temp->next->next != NULL) {
-            ListNode* preserve = slow;
-            
-           
-            while(preserve->next->next != NULL){
-                preserve = preserve->next;
-            }
-            
-            ListNode* lastNode = preserve->next;
-            preserve->next = NULL;
-            
-            ListNode* nextTemp = temp->next;
-            temp->next = lastNode;
-            lastNode->next = nextTemp;
-
-            temp = nextTemp;
+        ListNode* temp = slow;
+        vector<ListNode*> value;
+        while(temp != NULL && temp->next != NULL){
+            value.push_back(temp->next);
+            temp = temp->next;
         }
+
+        ListNode* nexttemp = head;
+        int n = value.size() - 1;
+
+        while(nexttemp != slow && n >= 0){
+            ListNode* val = nexttemp->next;
+            nexttemp->next = value[n];
+            value[n]->next = val;
+            nexttemp = val;
+            n--;
+        }
+        slow->next = NULL; 
     }
 };
