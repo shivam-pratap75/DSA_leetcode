@@ -11,15 +11,13 @@ public:
 
         ListNode* temp = head;
 
-        while(temp != NULL && temp->next != NULL) {
-            
+        while(temp != NULL && temp->next != NULL && temp->next->next != NULL) {
             ListNode* preserve = slow;
-            while(preserve->next != NULL && preserve->next->next != NULL){
+            
+           
+            while(preserve->next->next != NULL){
                 preserve = preserve->next;
             }
-            
-            
-            if(preserve->next == NULL) break;
             
             ListNode* lastNode = preserve->next;
             preserve->next = NULL;
@@ -29,9 +27,6 @@ public:
             lastNode->next = nextTemp;
 
             temp = nextTemp;
-            
-            
-            if(temp == slow) break;
         }
     }
 };
