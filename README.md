@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0283-move-zeroes) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
