@@ -31,29 +31,45 @@ public:
     }
     
     ListNode* mergeList(ListNode* head1, ListNode* head2) {
-        ListNode* p1 = new ListNode(0);
-        ListNode* p2 = p1;
-        
-        while(head1 != NULL && head2 != NULL) {
-            if(head1->val <= head2->val) {
-                p2->next = head1;
-                head1 = head1->next;
-            } else {
-                p2->next = head2;
-                head2 = head2->next;
+
+            
+
+                ListNode* temp1=head1;
+                ListNode* temp2=head2;
+                ListNode* sudo = NULL;
+     if (head1->val < head2->val) {
+     
+        ListNode* temp = head1->next;
+        head1->next = head2;
+        head2 = head1;
+        temp1 = temp;
+        sudo = head2;
+    } else {
+        sudo = head2;
+        temp2 = head2->next;
+    }
+        while(temp1 !=NULL && temp2 !=NULL){
+            if(temp1->val <= temp2->val){
+              ListNode* nextTemp1 = temp1->next;
+            sudo->next = temp1;
+            temp1->next = temp2;
+            sudo = temp1;
+            temp1 = nextTemp1;
+
+            }else{
+            sudo = temp2;
+            temp2 = temp2->next;
             }
-            p2 = p2->next;
+           
+
+
         }
-        
+         if(temp1!=NULL){
+                sudo->next=temp1;
+
+            }
+        return head2;
+
        
-        if(head1 != NULL) {
-            p2->next = head1;
-        } else {
-            p2->next = head2;
-        }
-        
-        ListNode* result = p1->next;
-        delete p1;
-        return result;
     }
 };
