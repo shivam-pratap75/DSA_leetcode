@@ -13,11 +13,10 @@ public:
             ListNode* temp=node;
         while(node->next!=NULL){
             
-            temp->val=node->next->val;
+            node->val=node->next->val;
+            temp=node;
             node=node->next;
-            if(node->next!=NULL){
-                temp=temp->next;
-            }
+           
             
 
         }
