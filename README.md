@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1072-next-greater-node-in-linked-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1106-escape-a-large-maze](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1106-escape-a-large-maze) |
 | [1284-four-divisors](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1284-four-divisors) |
 | [1319-unique-number-of-occurrences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [1072-next-greater-node-in-linked-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0143-reorder-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -352,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3863-power-grid-maintenance) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
