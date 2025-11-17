@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0486-predict-the-winner](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0486-predict-the-winner) |
 | [1284-four-divisors](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1284-four-divisors) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2050-count-good-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2050-count-good-numbers) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0486-predict-the-winner](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0486-predict-the-winner) |
 | [1250-longest-common-subsequence](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1250-longest-common-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0143-reorder-list) |
+| [0486-predict-the-winner](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0486-predict-the-winner) |
 | [2050-count-good-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
@@ -390,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
