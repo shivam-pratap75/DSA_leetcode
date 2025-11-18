@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0733-flood-fill) |
 | [0940-fruit-into-baskets](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0966-binary-subarrays-with-sum) |
