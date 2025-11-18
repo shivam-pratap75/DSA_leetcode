@@ -1,6 +1,6 @@
 class Solution {
 public:
- char solve(vector<char> &temp,char op){
+ char solve(vector<char> &temp,char op,bool is_T,bool is_F){
 
     if(op=='!'){
         if(temp[0]=='f'){
@@ -9,19 +9,29 @@ public:
             return 'f';
         }
     }else if(op=='|'){
-        for(int i=0;i<temp.size();i++){
-            if(temp[i]=='t'){
-                return 't';
-            }
+        if(is_T){
+            return 't';
+        }else{
+            return 'f';
         }
-        return 'f';
+        // for(int i=0;i<temp.size();i++){
+        //     if(temp[i]=='t'){
+        //         return 't';
+        //     }
+        // }
+        // return 'f';
     }else{
-        for(int i=0;i<temp.size();i++){
-            if(temp[i]=='f'){
-                return 'f';
-            }
+         if(is_F){
+            return 'f';
+        }else{
+            return 't';
         }
-        return 't';
+        // for(int i=0;i<temp.size();i++){
+        //     if(temp[i]=='f'){
+        //         return 'f';
+        //     }
+        // }
+        // return 't';
     }
 
     return 'f';
@@ -37,15 +47,23 @@ public:
             if(expression[i]==',') continue;
             if(expression[i]==')'){
                 vector<char> temp;
+                bool is_F =false;
+                bool is_T =false;
 
                 while(st.top()!='('){
+                    
+                    if(st.top()=='f'){
+                        is_F=true;
+                    }else{
+                        is_T=true;
+                    }
                     temp.push_back(st.top());
                     st.pop();
                 }
                 st.pop();
                 char op=st.top();
                 st.pop();
-                st.push(solve(temp,op));
+                st.push(solve(temp,op,is_T,is_F));
 
 
             }else{
