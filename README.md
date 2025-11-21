@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-escape-a-large-maze](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1106-escape-a-large-maze) |
 | [1319-unique-number-of-occurrences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1250-longest-common-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Trie
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Number Theory
 |  |
 | ------- |
