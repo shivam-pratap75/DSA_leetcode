@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0037-sudoku-solver) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0242-valid-anagram) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0191-number-of-1-bits) |
 | [0654-maximum-binary-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0654-maximum-binary-tree) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0199-binary-tree-right-side-view) |
