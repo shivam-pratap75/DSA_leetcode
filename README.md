@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0050-powx-n) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0486-predict-the-winner) |
 | [1284-four-divisors](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1284-four-divisors) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
