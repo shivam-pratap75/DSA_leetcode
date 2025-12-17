@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0733-flood-fill) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0300-longest-increasing-subsequence) |
