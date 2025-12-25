@@ -5,8 +5,11 @@ public:
         long long result=0;
 
        for(int i=0;i<k;i++){
-        
-            result+= max(0, happiness[i]-i);
+        int check=happiness[i]-i;
+
+        if(check>0){
+            result=result + long(happiness[i]-i);
+        }
 
 
        } 
