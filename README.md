@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2017-grid-game](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2017-grid-game) |
 | [2054-two-best-non-overlapping-events](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0733-flood-fill) |
+| [2017-grid-game](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2017-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1590-make-sum-divisible-by-p](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [2017-grid-game](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2017-grid-game) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2625-increment-submatrices-by-one) |
