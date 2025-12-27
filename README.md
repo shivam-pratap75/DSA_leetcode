@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0486-predict-the-winner) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1284-four-divisors](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1284-four-divisors) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1925-count-square-sum-triples](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-square-sum-triples) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1197-parsing-a-boolean-expression](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1250-longest-common-subsequence) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2211-count-collisions-on-a-road](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2211-count-collisions-on-a-road) |
