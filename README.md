@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3583-count-special-triplets) |
 ## Math
 |  |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Prefix Sum
 |  |
