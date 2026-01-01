@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0062-unique-paths) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0072-edit-distance) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0043-multiply-strings) |
 | [2211-count-collisions-on-a-road](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
