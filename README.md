@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2401-longest-nice-subarray](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2401-longest-nice-subarray) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -537,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [2054-two-best-non-overlapping-events](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3863-power-grid-maintenance) |
