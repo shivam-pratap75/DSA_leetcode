@@ -6,7 +6,7 @@ public:
         int k=n/2;
         for(int i=0;i<n;i++){
                 temp[nums[i]]++;
-                if(temp[nums[i]]==k){
+                if(temp[nums[i]]>1){
                     return nums[i];
                 }
         }
