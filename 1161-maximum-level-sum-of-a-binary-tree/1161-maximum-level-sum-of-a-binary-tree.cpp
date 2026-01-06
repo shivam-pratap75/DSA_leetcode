@@ -14,7 +14,7 @@ public:
     int maxLevelSum(TreeNode* root) {
         if (!root) return 0;
         
-        int maxSum = INT_MIN;
+          vector<long long>  sum;
         int maxLevel = 1;  
         int currentLevel = 1;
         
@@ -24,6 +24,7 @@ public:
         while (!q.empty()) {
             int levelSize = q.size();
             int levelSum = 0;
+            
             
             
             for (int i = 0; i < levelSize; i++) {
@@ -37,14 +38,11 @@ public:
                 if (node->right) q.push(node->right);
             }
             
-            if (levelSum > maxSum) {
-                maxSum = levelSum;
-                maxLevel = currentLevel;
-            }
+           sum.push_back(levelSum);
             
             currentLevel++;
         }
         
-        return maxLevel;
+         return max_element(sum.begin(), sum.end()) - sum.begin() + 1;
     }
 };
