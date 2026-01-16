@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2808-painting-the-walls](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2808-painting-the-walls) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-ambiguous-coordinates](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0816-ambiguous-coordinates) |
 | [1925-count-square-sum-triples](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-square-sum-triples) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## String
 |  |
