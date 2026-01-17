@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0075-sort-colors) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0200-number-of-islands) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2211-count-collisions-on-a-road](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
