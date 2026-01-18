@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1590-make-sum-divisible-by-p](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1895-largest-magic-square](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1895-largest-magic-square) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1895-largest-magic-square](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2017-grid-game](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2017-grid-game) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1590-make-sum-divisible-by-p](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1895-largest-magic-square](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1895-largest-magic-square) |
 | [2017-grid-game](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2017-grid-game) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
