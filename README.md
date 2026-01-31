@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0242-valid-anagram) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
