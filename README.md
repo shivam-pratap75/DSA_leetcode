@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0191-number-of-1-bits) |
 | [0654-maximum-binary-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0654-maximum-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1382-balance-a-binary-search-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1975-maximum-matrix-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -741,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Design
 |  |
@@ -762,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0096-unique-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Data Stream
 |  |
 | ------- |
