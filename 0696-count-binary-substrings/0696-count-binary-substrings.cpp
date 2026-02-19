@@ -5,21 +5,27 @@ public:
         
         int result=0;
         int n=s.length();
+         char ch=s[0];
+         int count=0;
       for(int i=0;i<n;i++){
-        long long count=0;
-       char ch=s[i];
+        
+        if(ch==s[i]){
+            count++;
+            continue;
+        }
+      
        int j=i;
-       while(j<n && s[j]==ch ){
-        count++;
+      int count2=0;
+       while(j<n && count2<=count && s[j]!=ch ){
+        count2++;
         j++;
        }
-       while(j<n && count!=0 && s[j]!=ch ){
-        count--;
-        j++;
-       }
-       if(count==0){
-        result++;
-       }
+
+       int ans=min(count,count2);
+       result+=ans;
+       ch=s[i];
+       count=1;
+    
       }
     return result;
     }
