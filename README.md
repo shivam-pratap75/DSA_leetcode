@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0227-basic-calculator-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0486-predict-the-winner) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2401-longest-nice-subarray](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2401-longest-nice-subarray) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
