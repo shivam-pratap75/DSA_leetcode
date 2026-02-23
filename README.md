@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0229-majority-element-ii) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0227-basic-calculator-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0486-predict-the-winner) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
