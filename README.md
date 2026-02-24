@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0229-majority-element-ii) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0179-largest-number) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0067-add-binary) |
