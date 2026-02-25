@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0079-word-search) |
 | [0816-ambiguous-coordinates](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0816-ambiguous-coordinates) |
 ## Sorting
 |  |
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0179-largest-number) |
