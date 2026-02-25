@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0733-flood-fill) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0759-set-intersection-size-at-least-two](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -627,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0696-count-binary-substrings) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -712,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0658-find-k-closest-elements](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0658-find-k-closest-elements) |
 | [2054-two-best-non-overlapping-events](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2402-meeting-rooms-iii) |
