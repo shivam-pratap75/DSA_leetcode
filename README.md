@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1590-make-sum-divisible-by-p](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1895-largest-magic-square](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1895-largest-magic-square) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1590-make-sum-divisible-by-p](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1390-four-divisors) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1925-count-square-sum-triples](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2050-count-good-numbers) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0696-count-binary-substrings) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
