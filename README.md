@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3863-power-grid-maintenance](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -760,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3863-power-grid-maintenance](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Stack
 |  |
@@ -888,4 +892,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
