@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0085-maximal-rectangle) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0079-word-search) |
 | [0816-ambiguous-coordinates](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0816-ambiguous-coordinates) |
 ## Sorting
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0191-number-of-1-bits) |
