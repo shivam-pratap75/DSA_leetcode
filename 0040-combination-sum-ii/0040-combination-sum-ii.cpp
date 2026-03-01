@@ -13,6 +13,7 @@ public:
         for(int i=start;i<candidates.size();i++){
             int num=candidates[i];
             if(i>start && candidates[i]==candidates[i-1])continue;
+            if(candidates[i]>target) break;
             temp.push_back(num);
             solve(candidates,result,target-num,temp,i+1);
 
