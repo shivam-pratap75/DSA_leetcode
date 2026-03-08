@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1980-find-unique-binary-string) |
 | [2017-grid-game](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2017-grid-game) |
 | [2054-two-best-non-overlapping-events](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1980-find-unique-binary-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0816-ambiguous-coordinates](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0816-ambiguous-coordinates) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1980-find-unique-binary-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1980-find-unique-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2211-count-collisions-on-a-road](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
