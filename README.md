@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2808-painting-the-walls](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2808-painting-the-walls) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3640-trionic-array-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Linked List
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
