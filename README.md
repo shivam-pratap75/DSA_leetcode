@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0189-rotate-array) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
