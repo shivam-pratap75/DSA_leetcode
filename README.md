@@ -662,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3048-earliest-second-to-mark-indices-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3453-separate-squares-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3454-separate-squares-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Divide and Conquer
 |  |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Prefix Sum
 |  |
@@ -951,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Rolling Hash
 |  |
@@ -963,10 +966,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Bitmask
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
