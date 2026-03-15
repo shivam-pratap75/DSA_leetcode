@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1622-fancy-sequence](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1925-count-square-sum-triples](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1925-count-square-sum-triples) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0901-online-stock-span) |
+| [1622-fancy-sequence](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1622-fancy-sequence) |
 ## Geometry
 |  |
 | ------- |
@@ -938,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3721-longest-balanced-subarray-ii) |
