@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0994-rotting-oranges) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1034-subarrays-with-k-different-integers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0733-flood-fill) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0994-rotting-oranges](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0994-rotting-oranges) |
 | [1106-escape-a-large-maze](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1106-escape-a-large-maze) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1895-largest-magic-square](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1895-largest-magic-square) |
