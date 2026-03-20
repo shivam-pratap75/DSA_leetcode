@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0377-combination-sum-iv) |
+| [0397-integer-replacement](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0397-integer-replacement) |
 | [0486-predict-the-winner](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0526-beautiful-arrangement) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0397-integer-replacement) |
 | [0611-valid-triangle-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0397-integer-replacement](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0397-integer-replacement) |
 | [0526-beautiful-arrangement](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -881,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Game Theory
