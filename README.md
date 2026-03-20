@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2017-grid-game](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2017-grid-game) |
 | [2054-two-best-non-overlapping-events](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2211-k-radius-subarray-averages](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2211-k-radius-subarray-averages](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2401-longest-nice-subarray](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2401-longest-nice-subarray) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
