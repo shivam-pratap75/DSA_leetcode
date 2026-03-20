@@ -25,7 +25,7 @@ public:
                 }
 
                 sort(temp.begin(), temp.end());
-                temp.erase(unique(temp.begin(), temp.end()), temp.end());
+                
 
                 int mini = INT_MAX;
 
@@ -33,11 +33,19 @@ public:
                     mini = 0;  
                 } else {
                     for(int r = 1; r < temp.size(); r++){
-                        mini = min(mini, temp[r] - temp[r-1]);
+
+        if(abs(temp[r]-temp[r-1])<mini && temp[r]!=temp[r-1]){
+                mini=abs(temp[r]-temp[r-1]);
+            }
                     }
                 }
 
+                if(mini==INT_MAX){
+                    res.push_back(0);
+
+                }else{
                 res.push_back(mini);
+                }
                 j++;
             }
 
