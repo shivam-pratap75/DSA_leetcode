@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0567-permutation-in-string) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0658-find-k-closest-elements) |
 | [2054-two-best-non-overlapping-events](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1002,4 +1005,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
