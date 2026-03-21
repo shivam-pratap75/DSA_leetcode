@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0216-combination-sum-iii) |
+| [0220-contains-duplicate-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0179-largest-number) |
+| [0220-contains-duplicate-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0220-contains-duplicate-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -864,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0220-contains-duplicate-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -1027,4 +1031,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
