@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2401-longest-nice-subarray) |
 | [2402-meeting-rooms-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2625-increment-submatrices-by-one](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2625-increment-submatrices-by-one) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2211-k-radius-subarray-averages](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2401-longest-nice-subarray](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2401-longest-nice-subarray) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1031,10 +1033,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Bucket Sort
 |  |
 | ------- |
