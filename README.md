@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1980-find-unique-binary-string) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2211-count-collisions-on-a-road](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2211-k-radius-subarray-averages](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2401-longest-nice-subarray](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2401-longest-nice-subarray) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2054-two-best-non-overlapping-events](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -801,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-largest-magic-square](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1895-largest-magic-square) |
 | [2017-grid-game](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2017-grid-game) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2625-increment-submatrices-by-one) |
