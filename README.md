@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
