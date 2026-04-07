@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -1005,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0901-online-stock-span) |
 | [1622-fancy-sequence](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Geometry
 |  |
 | ------- |
