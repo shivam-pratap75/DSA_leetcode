@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3863-power-grid-maintenance](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3863-power-grid-maintenance) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0654-maximum-binary-tree) |
 | [0761-special-binary-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Two Pointers
