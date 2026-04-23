@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2615-sum-of-distances](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2751-robot-collisions](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2751-robot-collisions) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2615-sum-of-distances](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -846,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2615-sum-of-distances](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
