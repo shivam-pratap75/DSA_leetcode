@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1250-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
