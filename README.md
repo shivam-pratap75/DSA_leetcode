@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3620-network-recovery-pathways](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3620-network-recovery-pathways) |
 | [3623-count-number-of-trapezoids-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3637-trionic-array-i) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3620-network-recovery-pathways](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Linked List
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3620-network-recovery-pathways) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Divide and Conquer
 |  |
@@ -939,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3620-network-recovery-pathways](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3863-power-grid-maintenance](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
@@ -974,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3620-network-recovery-pathways](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
@@ -981,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Memoization
 |  |
@@ -1093,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Rolling Hash
 |  |
