@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
