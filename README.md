@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1193-monthly-transactions-i](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1193-monthly-transactions-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array
 |  |
