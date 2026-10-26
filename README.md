@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0197-rising-temperature](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0197-rising-temperature) |
+| [0550-game-play-analysis-iv](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0577-employee-bonus](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/shivam-pratap75/DSA_leetcode/tree/master/0585-investments-in-2016) |
